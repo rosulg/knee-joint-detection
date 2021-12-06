@@ -7,8 +7,6 @@ via-2.0.11
 
 .DS_store
 
-yolov5/
-
 .idea
 
 *.zip
