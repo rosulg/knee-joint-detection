@@ -1,0 +1,15 @@
+extracted_images/
+knee128/
+knee-04-12-2021-16:04:32/
+Package_1194002/
+train/
+via-2.0.11
+
+.DS_store
+
+yolov5/
+
+.idea
+
+*.zip
+*.orig
